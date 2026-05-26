@@ -103,3 +103,5 @@ ai-support-sql-project/
 # Author
 
 GitHub: https://github.com/ShubhS03
+Email: shubhamsuji01@gmail.com
+LinkedIn: Shubham Suji
