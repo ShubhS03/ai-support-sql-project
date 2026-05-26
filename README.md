@@ -60,6 +60,32 @@ The project contains 7 interconnected relational tables:
 
 ---
 
+## Query Result Screenshots
+
+### Database Tables
+
+![Database Tables](screenshots/database_tables/output.png)
+
+---
+
+### Revenue Analysis
+
+![Revenue Analysis](screenshots/revenue_analysis/output.png)
+
+---
+
+### AI Model Ranking
+
+![AI Model Ranking](screenshots/model_ranking/output.png)
+
+---
+
+### Customer Satisfaction Analysis
+
+![Customer Satisfaction](screenshots/customer_satisfaction/output.png)
+
+---
+
 ## Project Structure
 
 ```text
@@ -70,3 +96,10 @@ ai-support-sql-project/
 ├── queries/
 ├── insights/
 └── README.md
+``` 
+
+---
+
+# Author
+
+GitHub: https://github.com/ShubhS03
